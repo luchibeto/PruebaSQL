@@ -1,4 +1,4 @@
-const sequelize = new Sequelize('prueba', 'sa', 'Junio2017++', {
+/*const sequelize = new Sequelize('prueba', 'sa', 'Junio2017++', {
   host: 'localhost',
   dialect: 'mysql'|'sqlite'|'postgres'|'mssql',
 
@@ -10,4 +10,6 @@ const sequelize = new Sequelize('prueba', 'sa', 'Junio2017++', {
 
   // SQLite only
   storage: 'path/to/database.sqlite'
-});
+});*/
+
+console.log("Hola mundo!");
