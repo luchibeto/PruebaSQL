@@ -1,0 +1,23 @@
+{
+  "name": "pruebasql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchibeto/PruebaSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchibeto/PruebaSQL/issues"
+  },
+  "homepage": "https://github.com/luchibeto/PruebaSQL#readme",
+  "dependencies": {
+    "sequelize": "^4.15.0",
+    "tedious": "^2.0.0"
+  }
+}
